@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\API\bin\Release\netcoreapp2.1\publish\</_PublishTargetUrl>
+    <History>True|2023-03-19T23:28:04.6170872Z;True|2023-03-08T20:21:46.8167385-03:00;True|2023-03-08T20:20:13.8518471-03:00;True|2023-03-08T20:08:13.3999190-03:00;True|2023-03-08T10:53:30.4411308-03:00;True|2023-03-08T09:54:01.6879719-03:00;True|2023-03-08T09:45:42.7884767-03:00;True|2023-03-08T09:42:13.9962745-03:00;True|2023-03-08T09:40:56.7877375-03:00;True|2023-03-08T09:33:32.1345573-03:00;True|2023-03-04T21:49:19.8824546-03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
