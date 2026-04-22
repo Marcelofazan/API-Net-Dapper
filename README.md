@@ -32,16 +32,3 @@ Se desejar fechar o container após a execução, digite o comando:
 ```bash
 docker-compose -f docker-compose-mysql.yml down
 ```
-
-## String de conexão do banco
-
-Modifique a string de conexão no arquivo **appsettings.json**, no trecho indicado:
-
-```json
-...
-	server=127.0.0.1;userid=root;password=SUASENHA;database=SEUBANCO;persistsecurityinfo=True
-...
-
-```
-
-O script para criação da tabela do exemplo encontra-se na pasta **Database**.
