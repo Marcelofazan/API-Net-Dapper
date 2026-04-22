@@ -1,5 +1,5 @@
 Create Database myfirstapi;
-USE myfirstapi;
+Use myfirstapi;
 
 /********************************************************
     Criação da tabela de pessoas
