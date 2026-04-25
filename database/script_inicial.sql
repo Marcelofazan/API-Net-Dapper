@@ -1,6 +1,3 @@
-Create Database myfirstapi;
-Use myfirstapi;
-
 /********************************************************
     Criação da tabela de pessoas
 /********************************************************/
