@@ -38,3 +38,17 @@ Após iniciar o Container, execute o apalicação:
     dotnet run
 ```
 
+### DBeaver ( Caso utilizar Workbench, realizar as alterações parecidas )
+
+Navegue até Propriedades do driver: Clique na guia Propriedades do driver (ao lado da guia “Principal”).
+Habilitar recuperação:
+
+    - Encontre a propriedade chamada permitirPublicKeyRetrieval. Mude seu valor de falso para **verdadeiro**.
+
+    - Alternativa (guia SSL): Nas versões mais recentes do DBeaver, você também pode ir até a aba SSL e marcar a caixa **Permitir recuperação de chave pública**.
+
+
+Desativar verificação de certificado (correção rápida) 
+Se você estiver em um ambiente de desenvolvimento e não precisar de validação SSL rigorosa:
+
+    - Clique com o botão direito na sua conexão > Editar conexão. Navegue até as configurações de SSL. Desmarque Verificar certificado do servidor.
