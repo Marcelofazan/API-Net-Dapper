@@ -38,7 +38,7 @@ Após iniciar o Container, execute o apalicação:
     dotnet run
 ```
 
-### Driver MySQL ( Caso utilizar DBeaver ou Workbench, realizar as alterações parecidas )
+### Configuração Driver MySQL para IDE (DBeaver ou Workbench) 
 
 Navegue até Propriedades do driver: Clique na guia Propriedades do driver (ao lado da guia “Principal”).
 Habilitar recuperação:
