@@ -1,4 +1,4 @@
-## 🔄 Api2-Dapper-Docker
+## 🚀 Api2-Dapper-Docker
 Exemplo de API Asp.Net Core utilizando banco de dados MySQL.
 
 #### O que você vai encontrar neste projeto
@@ -13,7 +13,7 @@ Exemplo de API Asp.Net Core utilizando banco de dados MySQL.
 
 Na pasta **database** esta pasta contém um arquivo, (script_inicial.sql), que será executado quando o container da imagem MySQL for instanciado.
 
-#### Executar a aplicação
+#### 🔄 Executar a aplicação
 - Criar o Container **VSCode**:
 ```bash
 docker-compose -f docker-compose-mysql.yml up -d
